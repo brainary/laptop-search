@@ -12,7 +12,20 @@ None yet
 # Inputs
 List of URLs to laptops to consider;
 
-## Dell XPS (multiple configurations)
+## Lenovo ThinkPad
+| Model           | Processor            | Memory     | Storage             | Screen   | Graphics  |
+|-----------------|----------------------|------------|---------------------|----------|-----------|
+| X1 Carbon Gen 8 | Intel 10th-Gen i5/i7 | 8GB / 16GB | 256GB / 512GB / 1TB | 14.00 in | Intel-UHD |
+| X1 Yoga Gen 5   | Intel 10th-Gen i5/i7 | 8GB / 16GB | 256GB / 512GB / 1TB | 14.00 in | Indel-UHD |
+
+## Lenovo ThinkBook
+| Model          | Processor         | Memory     | Storage       | Screen   | Graphics   | Weight   |
+|----------------|-------------------|------------|---------------|----------|------------|----------|
+| ThinkBook Plus | Intel 10th-Gen i7 | 8GB / 16GB | 265GB / 512GB | 13.30 in | Indel-UHD  | 3.08 lbs |
+| ThinkBook 14   | Intel 10th-Gen i7 | 8GB        | 512GB         | 14.00 in | Indel-Plus | 3.30 lbs |
+| ThinkBook 15   | Intel 10th-Gen i7 | 8GB / 16GB | 512GB         | 15.60 in | Intel-Xe   | 3.97 lbs |
+
+## Dell XPS
 | Model             | Processor                    | Memory                  | Storage             | Screen  | Graphics                    | Weight   |
 |-------------------|------------------------------|-------------------------|---------------------|---------|-----------------------------|----------|
 | New XPS 13        | Intel 10th/11th-Gen i3/i5    | 8GB                     | 256GB               | 13.4 in | Intel-UHD / Intel-Xe        | 2.64 lbs |
