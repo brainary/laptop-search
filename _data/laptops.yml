@@ -11,9 +11,27 @@
     - 256GB
     - 512GB
     - 1TB
-  screen: 14.00 in
+  screen: 14.0 in
   graphics:
     - Intel-UHD
+
+- model: ThinkPad X1 Extreme Gen 3
+  make: Lenovo
+  processor:
+    - Intel 10th-Gen i5
+    - Intel 10th-Gen i7
+  memory:
+    - 8GB
+    - 16GB
+    - 32GB
+  storage:
+    - 256GB
+    - 512GB
+    - 1TB
+  screen: 15.6 in
+  graphics:
+    - NVIDIA-GTX-1650-Ti
+  weight:
 
 - model: ThinkPad X1 Yoga Gen 5
   make: Lenovo
@@ -27,7 +45,7 @@
     - 256GB
     - 512GB
     - 1TB
-  screen: 14.00 in
+  screen: 14.0 in
   graphics:
     - Intel-UHD
 
@@ -41,7 +59,7 @@
   storage:
     - 265GB
     - 512 GB
-  screen: 13.30 in
+  screen: 13.3 in
   graphics:
     - Intel-UHD
   weight: 3.08 lbs
@@ -54,7 +72,7 @@
     - 8GB
   storage:
     - 512GB
-  screen: 14.00 in
+  screen: 14.0 in
   graphics:
     - Intel-Plus
   weight: 3.30 lbs
@@ -68,10 +86,65 @@
     - 16GB
   storage:
     - 512GB
-  screen: 15.60 in
+  screen: 15.6 in
   graphics:
     - Indel-Xe
   weight: 3.97 lbs
+
+- model: ThinkPad T15
+  make: Lenovo
+  processor:
+    - Intel 10th-Gen i5
+    - Intel 10th-Gen i7
+  memory:
+    - 8GB
+    - 16GB
+  storage:
+    - 128GB
+    - 256GB
+    - 512GB
+  screen: 15.6 in
+  graphics:
+    - Intel-UHD
+
+- model: ThinkPad T15g
+  make: Lenovo
+  processor:
+    - Intel 10th-Gen i5
+    - Intel 10th-Gen i7
+    - Intel 10th-Gen i9
+  memory:
+    - 8GB
+    - 16GB
+    - 32GB
+    - 64GB
+  storage:
+    - 256GB
+    - 512GB
+    - 1TB
+  screen: 15.6 in
+  graphics:
+    - NVIDIA-RTX-2070
+    - NVIDIA-RTX-2080
+
+- model: ThinkPad T490
+  make: Lenovo
+  processor:
+    - Intel 8th-Gen i5
+    - Intel 8th-Gen i7
+    - Intel 10th-Gen i5
+    - Intel 10th-Gen i7
+  memory:
+    - 8GB
+    - 16GB
+    - 24GB
+  storage:
+    - 256GB
+    - 512GB
+  screen: 14.0 in
+  graphics:
+    - Intel-UHD
+  weight: 3.23 lbs
 
 - model: New XPS 13
   make: Dell
@@ -82,7 +155,7 @@
     - 8GB
   storage:
     - 256GB
-  screen: 13.40 in
+  screen: 13.4 in
   graphics:
     - Intel-UHD
     - Intel-Xe
@@ -99,7 +172,7 @@
   storage:
     - 265GB
     - 512GB
-  screen: 13.30 in
+  screen: 13.3 in
   graphics:
     - Intel UHD
   weight: 2.56 bls
@@ -113,7 +186,7 @@
     - 16GB
   storage:
     - 512GB
-  screen: 13.40 in
+  screen: 13.4 in
   graphics:
     - Intel-UHD
     - Intel-Xe
@@ -134,7 +207,7 @@
     - 256GB
     - 512GB
     - 1TB
-  screen: 13.40 in
+  screen: 13.4 in
   graphics:
     - Intel-UHD
     - Intel-Plus
@@ -150,7 +223,7 @@
   storage:
     - 256GB
     - 512GB
-  screen: 13.40 in
+  screen: 13.4 in
   graphics:
     - Intel-UHD
     - Intel-Xe
@@ -168,7 +241,7 @@
     - 256GB
     - 512GB
     - 1TB
-  screen: 15.60 in
+  screen: 15.6 in
   graphics:
     - NVIDIA-GTX-1650
   weight: 4.00 lbs
@@ -183,7 +256,7 @@
   storage:
     - 256GB
     - 512GB
-  screen: 15.60 in
+  screen: 15.6 in
   graphics:
     - Intel-UHD
     - NVIDIA-GTX-1650
@@ -197,7 +270,7 @@
     - 32GB
   storage:
     - 1TB
-  screen: 15.60 in
+  screen: 15.6 in
   graphics:
     - NVIDIA-GTX-1060-Ti
   weight: 4.00 lbs
@@ -210,7 +283,7 @@
     - 8GB
   storage:
     - 512GB
-  screen: 17.00 in
+  screen: 17.0 in
   graphics:
     - NVIDIA-GTX-1650-Ti
   weight: 4.65 lbs
@@ -228,7 +301,7 @@
     - 512GB
     - 1TB
     - 2TB
-  screen: 17.00 in
+  screen: 17.0 in
   graphics:
     - NVIDIA-GTX-2060
   weight: 4.65 lbs
