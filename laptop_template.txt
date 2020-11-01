@@ -1,0 +1,13 @@
+
+- model: 
+  make: 
+  processor:
+    - 
+  memory:
+    - 
+  storage:
+    - 
+  screen: 
+  graphics:
+    - 
+  weight:
