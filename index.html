@@ -1,0 +1,28 @@
+---
+title: Programmer Laptop Search
+layout: default
+---
+<table>
+  <tr>
+    <th>Make</th>
+    <th>Model</th>
+    <th>Processor</th>
+    <th>Memory</th>
+    <th>Storage</th>
+    <th>Screen</th>
+    <th>Graphics</th>
+    <th>Weight</th>
+  </tr>
+{% for laptop in site.data.laptops %}
+  <tr>
+    <td>{{ laptop.make }}</td>
+    <td>{{ laptop.model }}</td>
+    <td>{{ laptop.processor }}</td>
+    <td>{{ laptop.memory }}</td>
+    <td>{{ laptop.storage }}</td>
+    <td>{{ laptop.screen }}</td>
+    <td>{{ laptop.graphics }}</td>
+    <td>{{ laptop.weight }}</td>
+  </tr>
+{% endfor %}
+</table>
