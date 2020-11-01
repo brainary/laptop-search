@@ -1,3 +1,25 @@
+body {
+  background: #fff;
+  font-family: verdana;
+  font-size: 12px;
+}
+
+table, td, th { 
+  border: 2px #000 solid;
+  border-collapse: collapse;
+}
+
 th {
-  text-align:left
+  text-align: left;
+  background: #000;
+  color: #fff;
+  border-right: 2px #fff solid;
+}
+
+th:last-child {
+  border-right: 2px #000 solid;
+}
+
+th, td {
+  padding: 5px;
 }
