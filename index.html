@@ -17,11 +17,11 @@ layout: default
   <tr>
     <td>{{ laptop.make }}</td>
     <td>{{ laptop.model }}</td>
-    <td>{{ laptop.processor }}</td>
-    <td>{{ laptop.memory }}</td>
-    <td>{{ laptop.storage }}</td>
+    <td>{{ laptop.processor | join: " / " }}</td>
+    <td>{{ laptop.memory | join: " / " }}</td>
+    <td>{{ laptop.storage | join: " / " }}</td>
     <td>{{ laptop.screen }}</td>
-    <td>{{ laptop.graphics }}</td>
+    <td>{{ laptop.graphics | join: " / " }}</td>
     <td>{{ laptop.weight }}</td>
   </tr>
 {% endfor %}
