@@ -1,0 +1,74 @@
+
+- model: ThinkPad X1 Carbon Gen 8
+  make: Lenovo
+  processor:
+    - Intel 10th-Gen i5
+    - Intel 10th-Gen i7
+  memory:
+    - 8GB
+    - 16GB
+  storage:
+    - 256GB
+    - 512GB
+    - 1TB
+  screen: 14.00 in
+  graphics:
+    - Intel-UHD
+
+- model: ThinkPad X1 Yoga Gen 5
+  make: Lenovo
+  processor:
+    - Intel 10th-Gen i5
+    - Intel 10th-Gen i7
+  memory:
+    - 8GB
+    - 16GB
+  storage:
+    - 256GB
+    - 512GB
+    - 1TB
+  screen: 14.00 in
+  graphics:
+    - Intel-UHD
+
+- model: ThinkBook Plus
+  make: Lenovo
+  processor:
+    - Intel 10th-Gen i7
+  memory:
+    - 8GB
+    - 16GB
+  storage:
+    - 265GB
+    - 512 GB
+  screen: 13.30 in
+  graphics:
+    - Intel-UHD
+  weight: 3.08 lbs
+  
+- model: ThinkBook 14
+  make: Lenovo
+  processor:
+    - Intel 10th-Gen i7
+  memory:
+    - 8GB
+  storage:
+    - 512GB
+  screen: 14.00 in
+  graphics:
+    - Intel-Plus
+  weight: 3.30 lbs
+
+- model: ThinkBook 15
+  make: Lenovo
+  processor:
+    - Intel 10th-Gen i7
+  memory:
+    - 8GB
+    - 16GB
+  storage:
+    - 512GB
+  screen: 15.60 in
+  graphics:
+    - Indel-Xe
+  weight: 3.97 lbs
