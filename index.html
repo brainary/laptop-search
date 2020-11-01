@@ -3,7 +3,7 @@ title: Programmer Laptop Search
 layout: default
 ---
 <ul>
-{% assign laptops_sorted = site.data.laptops | sort: "make" | sort: "model" %}
+{% assign laptops_sorted = site.data.laptops | sort_by: "make" | sort_by: "model" %}
 {% for laptop in laptop_sorted %}
   <li>
     {{ laptop.model }}
