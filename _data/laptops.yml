@@ -1,4 +1,3 @@
-
 - model: ThinkPad X1 Carbon Gen 8
   make: Lenovo
   processor:
@@ -146,11 +145,24 @@
     - Intel-UHD
   weight: 3.23 lbs
 
+- model: XPS 13
+  make: Dell
+  processor:
+    - Intel 10th-Gen i3
+  memory:
+    - 8GB
+  storage:
+    - 256GB
+  screen: 13.4 in
+  graphics:
+    - Intel-UHD
+  weight: 2.64 lbs
+
 - model: New XPS 13
   make: Dell
   processor:
-    - Intel 10th/11th-Gen i3
-    - Intel 10th/11th-Gen i5
+    - Intel 11th-Gen i3
+    - Intel 11th-Gen i5
   memory:
     - 8GB
   storage:
@@ -195,9 +207,9 @@
 - model: XPS 13 2-in-1
   make: Dell
   processor:
-    - Intel 10th/11th-Gen i3
-    - Intel 10th/11th-Gen i5
-    - Intel 10th/11th-Gen i7
+    - Intel 10th-Gen i3
+    - Intel 10th-Gen i5
+    - Intel 10th-Gen i7
   memory:
     - 4GB
     - 8GB
@@ -216,7 +228,9 @@
 - model: New XPS 13 2-in-1
   make: Dell
   processor:
+    - Intel 11th-Gen i3
     - Intel 11th-Gen i5
+    - Intel 11th-Gen i7
   memory:
     - 8GB
     - 16GB
