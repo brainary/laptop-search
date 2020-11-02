@@ -319,3 +319,74 @@
   graphics:
     - NVIDIA-GTX-2060
   weight: 4.65 lbs
+
+- model: Surface Pro 7
+  make: Microsoft
+  processor:
+    - Intel 10th-Gen i3
+    - Intel 10th-Gen i5
+    - Intel 10th-Gen i7
+  memory:
+    - 4GB
+    - 8GB
+    - 16GB
+  storage:
+    - 128GB
+    - 256GB
+    - 512GB
+    - 1TB
+  screen: 12.3 in
+  graphics:
+    - Indel-UHD
+    - Intel-Plus
+  weight: 1.7 lbs
+
+- model: Surface Laptop Go
+  make: Microsfot
+  processor:
+    - Intel 10th-Gen i5
+  memory:
+    - 4GB
+    - 8GB
+  storage:
+    - 64GB
+    - 128GB
+    - 256GB
+  screen: 12.4 in
+  graphics:
+    - Intel-UHD
+  weight: 2.45 lbs
+
+- model: Surface Laptop 3 13.5"
+  make: Microsoft
+  processor:
+    - Intel 10th-Gen i5
+    - Intel 10th-Gen i7
+  memory:
+    - 8GB
+    - 16GB
+  storage:
+
+  screen: 13.5 in
+  graphics:
+    - Intel-Plus
+  weight: 2.79 lbs
+
+- model: Surface Laptop 3 15"
+  make: Microsoft
+  processor:
+    - AMD Ryzen 5
+    - AMD Ryzen 7
+  memory:
+    - 8GB
+    - 16GB
+  storage:
+    - 128GB
+    - 256GB
+    - 512GB
+    - 1TB
+  screen: 15.0 IN
+  graphics:
+    - AMD-Radeon-Vega-9
+    - AMD-Radeon-RX-Vega-11
+  weight: 3.40 lbs
