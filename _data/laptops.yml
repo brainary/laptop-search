@@ -393,3 +393,72 @@
     - AMD-Radeon-Vega-9
     - AMD-Radeon-RX-Vega-11
   weight: 3.40 lbs
+
+- model: Surface Go 2
+  make: Microsoft
+  processor:
+    - Intel Pentium 8th-Gen Core m3
+  memory:
+    - 4GB
+    - 8GB
+  storage:
+    - 64GB
+    - 128GB
+  screen: 10.5 in
+  graphics:
+    - Intel-UHD
+  weight: 1.22 lbs
+
+- model: Surface Pro X
+  make: Microsoft
+  processor:
+    - Microsoft SQ 1
+    - Microsoft SQ 2
+  memory:
+    - 8GB
+    - 16GB
+  storage:
+    - 128GB
+    - 256GB
+    - 512GB
+  screen: 13.0 in
+  graphics:
+    - Microsoft SQ 1 Adreno 685
+    - Microsoft SQ 2 Adreno 690
+  weight: 1.70 lbs
+
+- model: New Surface Book 3 13.5"
+  make: Microsoft
+  processor:
+    - Intel 10th-Gen i5
+    - Intel 10th-Gen i7
+  memory:
+    - 8GB
+    - 16GB
+    - 32GB
+  storage:
+    - 256GB
+    - 512GB
+    - 1TB
+  screen: 13.5 in
+  graphics:
+    - Intel-Plus
+    - NVIDIA-GTX-1650-Ti
+  weight: 3.62 lbs
+
+- model: New Surface Book 3 15"
+  make: Microsoft
+  processor:
+    - Intel 10th-Gen i7
+  memory:
+    - 16GB
+    - 32GB
+  storage:
+    - 256GB
+    - 512GB
+    - 1TB
+    - 2TB
+  screen: 15.0 in
+  graphics:
+    - NVIDIA-GTX-1660-Ti
+  weight: 4.20 lbs
